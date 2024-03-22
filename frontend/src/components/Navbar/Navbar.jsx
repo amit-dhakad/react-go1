@@ -52,6 +52,7 @@ const Navbar = () => {
           btype="icon-btn"
         />
       </div>
+      <span> Testing git name</span>
     </StyledNavbar>
   );
 };
